@@ -1,1 +1,3 @@
-Webfejlesztés 2. beadandó
+Debreceni Egyetem Informatika karának Programtervező informatikus szakán, webfejlesztés tárgy 2. beadandója
+
+Készítette: Szepesi Máté
